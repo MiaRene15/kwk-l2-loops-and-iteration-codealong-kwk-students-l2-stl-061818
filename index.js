@@ -5,8 +5,7 @@
    console.log(names.push('Lisa'))
    console.log(names.push('Kaitlin'))
    console.log(names.push('Jan'))
-   return`Welcome ${names}! You are employee #1.`
-   return `Welcome ${names}! You are employee #2.`
+   
 }
  
 //  function printBadges(names) {
