@@ -5,6 +5,7 @@
    console.log(names.push('Lisa'))
    console.log(names.push('Kaitlin'))
    console.log(names.push('Jan'))
+   console.log()
 }
  
 //  function printBadges(names) {
